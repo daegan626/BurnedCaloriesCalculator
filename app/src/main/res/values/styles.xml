@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="AppTheme" parent="AppTheme">
+        <!-- Customize your theme here. -->
+
+        <item name="android:textColorPrimary">@color/white</item>
+
+
+    </style>
+
+
+    //custom style for textViews
+    <style name="TextViews">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+</resources>
